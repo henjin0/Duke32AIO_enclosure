@@ -1,0 +1,2 @@
+# Duke32AIO_enclosure
+Duke32AIO用に作った非公式のエンクロージャです。
